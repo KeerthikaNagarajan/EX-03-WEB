@@ -65,4 +65,4 @@ The aim of this code is to create a web layout using flexbox, which allows for f
 <img width="1280" alt="1" src="https://github.com/KeerthikaNagarajan/WEB-LAYOUT-USING-FLEXBOX/assets/93427089/6f0e6d7a-7a15-4ba0-922b-46327895955c">
 
 ### RESULT:
-The code will generate a webpage with a flexbox layout was successfully done.
+The code to generate a webpage with a flexbox layout was successfully done.
