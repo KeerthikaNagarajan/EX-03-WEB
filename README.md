@@ -1,7 +1,16 @@
-# EXP 03 - CREATE A WEB-LAYOUT USING FLEXBOX
-## Program:
-```
-
+# Ex-03:
+## CREATE A WEB-LAYOUT USING FLEXBOX
+### AIM:
+The aim of this code is to create a web layout using flexbox, which allows for flexible and responsive positioning of elements within the webpage.
+### ALGORITHM:
+1. Create an HTML document with the necessary structure, including the doctype declaration, title tag, and style tag.
+2. Set the CSS box-sizing property to border-box for all elements to include padding and border widths in the total element width.
+3. Apply CSS to the nav and aside elements to make them have a fixed width of 20vw (20% of the viewport width) and occupy the remaining space using flex: 0 0 20vw.
+4. Style the header, footer, article, nav, and aside elements with background colors and set their padding to 1em.
+5. Add content to the header, article, nav, aside, and footer elements as desired.
+6. Close the style tag and include the header, main, and footer elements within the body of the HTML document.
+### PROGRAM:
+```html
 <!doctype html>
 <title>Example</title>
 <style>
@@ -52,5 +61,8 @@
   <footer>Footer</footer>
 </body>
 ```
-## Output:
+### OUTPUT:
 <img width="1280" alt="1" src="https://github.com/KeerthikaNagarajan/WEB-LAYOUT-USING-FLEXBOX/assets/93427089/6f0e6d7a-7a15-4ba0-922b-46327895955c">
+
+### RESULT:
+The code will generate a webpage with a flexbox layout was successfully done.
